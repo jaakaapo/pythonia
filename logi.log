@@ -1,0 +1,4 @@
+INFO:root:Eka lofiteksti.
+INFO 2023-03-31 22:47:53,039 - Ensimmäinen logiteksti
+INFO 2023-03-31 23:13:07,668 - Ensimmäinen logiteksti
+ERROR 2023-03-31 23:13:07,668 - virhe
